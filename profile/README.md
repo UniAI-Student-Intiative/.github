@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="#mission-and-identity">Our mission</a> ·
-  <a href="#the-ecosystem">The ecosystem</a> ·
-  <a href="#featured-work">Featured work</a> ·
-  <a href="#for-companies">For companies</a>
+  <a href="#mission-and-identity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/nav-mission-dark.svg"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/nav-mission-light.svg" width="142" height="44" alt="Our mission"></picture></a>
+  <a href="#the-ecosystem"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/nav-ecosystem-dark.svg"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/nav-ecosystem-light.svg" width="142" height="44" alt="The ecosystem"></picture></a>
+  <a href="#featured-work"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/nav-work-dark.svg"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/nav-work-light.svg" width="142" height="44" alt="Featured work"></picture></a>
+  <a href="#for-companies"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/nav-companies-dark.svg"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/nav-companies-light.svg" width="142" height="44" alt="For companies"></picture></a>
 </p>
 
 ## Mission and identity

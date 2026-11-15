@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="44" viewBox="0 0 142 44" role="img" aria-labelledby="label">
+  <title id="label">The ecosystem</title>
+  <rect x=".5" y=".5" width="141" height="43" rx="10" fill="#FAF7FD" stroke="#DCCCE7"/>
+  <rect x="7" y="9" width="26" height="26" rx="6" fill="#71349B" fill-opacity=".12"/>
+  <g transform="translate(11.5 13.5) scale(.71)" fill="#FAF7FD" stroke="#71349B" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="m6 6 6 6 6-6m-6 6v6"/><circle cx="6" cy="6" r="2.5"/><circle cx="18" cy="6" r="2.5"/><circle cx="12" cy="12" r="2.5"/><circle cx="12" cy="19" r="2.5"/></g>
+  <text x="40" y="22.5" dominant-baseline="middle" fill="#22192B" font-family="system-ui, Segoe UI, sans-serif" font-size="11.5" font-weight="650">The ecosystem</text>
+  <path d="m127 19 3 3-3 3" fill="none" stroke="#71349B" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
