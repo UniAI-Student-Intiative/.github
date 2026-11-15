@@ -174,8 +174,8 @@ This is a proposed organisation-level agenda for the 2026–2027 season. Dates, 
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-dark.svg?v=4">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-light.svg?v=4" alt="An orange and purple galaxy orbiting a UniAI geometric sculpture." width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-dark.svg?v=6">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-light.svg?v=6" alt="The UniAI galaxy with satellites, a UFO speeding into space, shooting stars and meteors." width="1200">
 </picture>
 
 ## Join and contribute

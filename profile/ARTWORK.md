@@ -23,7 +23,7 @@ No source code, illustrations or assets from these repositories were copied.
 - `assets/ecosystem-{dark,light}.svg`: custom department network board with five animated official logo nodes and distinct illustrations: research plot, workshop book, assembling prototype, server signal and community connections.
 - `assets/lab-board-{dark,light}.svg`: custom proposed season board.
 - `assets/wave-{dark,light}.svg`: custom animated contour fields.
-- `assets/galaxy-{dark,light}.svg`: custom star field and spiral orbit with the official icon, two satellites and a glass-domed UFO that approaches and fades near the logo.
+- `assets/galaxy-{dark,light}.svg`: custom star field and spiral orbit with the official icon, two satellites and a glass-domed UFO that flies above the logo and satellite paths, then accelerates out of frame. Shooting stars and meteors cross the outer edges.
 - `assets/mission-{dark,light}.svg`: the supplied mission wording with a one-time text reveal and a custom ASK / THINK / CONNECT / CREATE signal pipeline, exported with transparency.
 - `assets/ascii-transmission-{dark,light}.svg`: a custom illustrative AI journey: student question, research evidence, experiment pseudocode and shared discovery. The sequence is complete by 6.3 seconds and holds before restarting. It is an illustration, not a chatbot or executing code.
 - `assets/project-{makeathon,roboai,students}-{dark,light}.svg`: six original illustrated covers for three past public UniAI programmes. They are graphic interpretations, not event photographs or application screenshots.
