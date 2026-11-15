@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-dark.svg?v=4">
-    <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-light.svg?v=4" alt="UniAI. Curiosity in. Possibility out. Official logo, geometric sculpture and flowing ribbons." width="1200">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-dark.svg?v=5">
+    <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-light.svg?v=5" alt="UniAI. Curiosity in. Possibility out. Official logo, geometric sculpture and flowing ribbons." width="1200">
   </picture>
 </p>
 
@@ -21,7 +21,7 @@
 <p align="center">
   <a href="#mission-and-identity">Our mission</a> ·
   <a href="#the-ecosystem">The ecosystem</a> ·
-  <a href="#join-and-contribute">Build with us</a> ·
+  <a href="#featured-work">Featured work</a> ·
   <a href="#join-and-contribute">Join the community</a>
 </p>
 
@@ -56,8 +56,8 @@ Curiosity is the starting point. Reproducible work, useful tools and knowledge s
 ### Five departments. One shared orbit.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ecosystem-dark.svg?v=3">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ecosystem-light.svg?v=3" alt="Five connected UniAI departments: research, workshops, hackathons, infrastructure and community." width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ecosystem-dark.svg?v=5">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ecosystem-light.svg?v=5" alt="Five connected UniAI departments: research, workshops, hackathons, infrastructure and community." width="1200">
 </picture>
 
 
@@ -107,6 +107,44 @@ AI and tooling tracks are proposed learning and contribution areas for 2026–20
 
 <p align="center"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/divider.svg" alt="" width="1200"></p>
 
+## Featured work
+
+### Built together. Shared beyond the lab.
+
+Three past UniAI programmes, each with a public information page. The covers are custom illustrations.
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
+<a href="https://makeathon.uniai.gr/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/project-makeathon-dark.svg?v=5">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/project-makeathon-light.svg?v=5" alt="Custom illustrated cover for Makeathon 2026" width="400">
+</picture></a>
+<h3>Makeathon 2026</h3>
+<p>Students turning practical AI challenges into team prototypes.</p>
+<p><a href="https://makeathon.uniai.gr/"><strong>Explore the event archive →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<a href="https://uniai.gr/en/events"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/project-roboai-dark.svg?v=5">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/project-roboai-light.svg?v=5" alt="Custom illustrated cover for RoboAI Lab" width="400">
+</picture></a>
+<h3>RoboAI Lab</h3>
+<p>Hands-on robotics and AI learning with RAS NTUA.</p>
+<p><a href="https://uniai.gr/en/events"><strong>Explore the programme →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<a href="https://uniai.gr/en/events"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/project-students-dark.svg?v=5">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/project-students-light.svg?v=5" alt="Custom illustrated cover for Students 4 Students" width="400">
+</picture></a>
+<h3>Students 4 Students</h3>
+<p>Student AI projects, peer demonstrations and shared feedback.</p>
+<p><a href="https://uniai.gr/en/events"><strong>Explore the programme →</strong></a></p>
+</td>
+</tr>
+</table>
+
 ## Season board
 
 ### 2026–2027 / From first question to shared work
@@ -143,6 +181,12 @@ This is a proposed organisation-level agenda for the 2026–2027 season. Dates, 
 ## Join and contribute
 
 **Bring a question, a skill or an idea. We will work on the next step together.**
+
+The 2026–2027 membership form is currently closed, checked on 15 November 2026. Follow [membership updates](https://uniai.gr/en) for the next opening.
+
+### Propose a workshop
+
+Share a topic, the intended audience and what participants could make or learn. Contact the organisers through the [official UniAI LinkedIn page](https://www.linkedin.com/company/uniai/).
 
 <details>
 <summary><strong>How to Join &amp; Contribute: Student &amp; Developer Onboarding</strong></summary>
@@ -211,15 +255,24 @@ Discuss technical contributions with the maintainers through the organisation. S
 
 <p align="center"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/divider.svg" alt="" width="1200"></p>
 
+
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ascii-transmission-dark.svg?v=5">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ascii-transmission-light.svg?v=5" alt="Illustrative AI journey: student question, research evidence, experiment pseudocode and a shared discovery." width="1200">
+</picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/footer-logo-dark.svg?v=3">
   <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/footer-logo-light.svg?v=3" alt="UniAI: Students Initiative" width="1200">
 </picture>
 
-<p align="center"><strong>Built by students. Shared through curiosity.</strong><br>Learn with us. Build with us. Connect with UniAI.</p>
-
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ascii-transmission-dark.svg?v=4">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ascii-transmission-light.svg?v=4" alt="Illustrative AI conversation: a student question, animated processing and a UniAI example response." width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/closing-dark.svg?v=5">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/closing-light.svg?v=5" alt="Your next idea belongs here. Bring your curiosity, find your people and build something together." width="1200">
 </picture>
+
+<p align="center"><a href="https://uniai.gr/en"><strong>Membership updates</strong></a> · <a href="#featured-work"><strong>Explore featured work</strong></a> · <a href="#propose-a-workshop"><strong>Propose a workshop</strong></a></p>

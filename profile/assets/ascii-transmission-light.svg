@@ -1,56 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" fill="none" role="img" aria-labelledby="title description">
-<title id="title">An idea becomes a conversation</title>
-<desc id="description">Illustrative AI exchange, not a live chatbot. Student: How do we turn an idea into something real? UniAI: Ask a question. Build an experiment. Share what you learn. The prompt, processing dots and example response animate in a sixteen-second loop.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none" role="img" aria-labelledby="title description">
+<title id="title">From a student's question to shared discovery</title>
+<desc id="description">Illustrative AI journey, not a live model. Student: Can we make an idea useful? Research: find useful evidence and question assumptions. Experiment: form a hypothesis, test it and evaluate. Shared discovery: explain the result, document and teach. The eighteen-second animation follows the question through the three stages and holds the completed path.</desc>
 <defs>
-<linearGradient id="thread" x1="48" y1="45" x2="48" y2="245" gradientUnits="userSpaceOnUse"><stop stop-color="#F7941D"/><stop offset="1" stop-color="#A04EDB"/></linearGradient>
-<linearGradient id="signal" x1="90" y1="0" x2="1128" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#F7941D" stop-opacity="0"/><stop offset=".4" stop-color="#F7941D"/><stop offset=".7" stop-color="#A04EDB"/><stop offset="1" stop-color="#A04EDB" stop-opacity="0"/></linearGradient>
-<clipPath id="prompt-clip"><rect class="prompt-mask" x="90" y="57" width="1060" height="41"/></clipPath>
-<clipPath id="reply-clip"><rect class="reply-mask" x="90" y="187" width="1060" height="69"/></clipPath>
+<linearGradient id="signal" x1="32" y1="0" x2="1168" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#F7941D"/><stop offset="1" stop-color="#A04EDB"/></linearGradient>
+<clipPath id="question-clip"><rect class="question-mask" x="91" y="70" width="1000" height="40"/></clipPath>
+<clipPath id="code-clip"><rect class="code-mask" x="450" y="195" width="305" height="85"/></clipPath>
 </defs>
 <style>
-text{font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
-.mono{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace}
-.prompt-mask{transform-origin:90px 0;animation:prompt-type 16s steps(42,end) infinite}
-.reply-mask{transform-origin:90px 0;animation:reply-type 16s steps(64,end) infinite}
-.content{animation:cycle 16s ease-in-out infinite}
-.dot{animation:think 2.4s ease-in-out infinite}
-.d2{animation-delay:.3s}.d3{animation-delay:.6s}
-.signal{stroke-dasharray:3 15;animation:signal 8s linear infinite}
-.avatar{transform-origin:48px 211px;animation:avatar 16s ease-in-out infinite}
-@keyframes prompt-type{0%{transform:scaleX(0)}10%,100%{transform:scaleX(1)}}
-@keyframes reply-type{0%,20%{transform:scaleX(0)}39%,100%{transform:scaleX(1)}}
-@keyframes cycle{0%,97%,100%{opacity:0}3%,94%{opacity:1}}
-@keyframes think{0%,100%{opacity:.25;transform:translateY(0)}50%{opacity:.9;transform:translateY(-2px)}}
-@keyframes signal{to{stroke-dashoffset:-144}}
-@keyframes avatar{0%,20%,100%{opacity:.65}35%,90%{opacity:1}}
-@media(prefers-reduced-motion:reduce){.prompt-mask,.reply-mask,.content,.dot,.signal,.avatar{animation:none;transform:none;opacity:1}}
+text{font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace}
+.question-mask{animation:question 18s steps(30,end) infinite;transform-origin:91px 0}.research{animation:research 18s ease-in-out infinite}.experiment{animation:experiment 18s ease-in-out infinite}.discovery{animation:discovery 18s ease-in-out infinite}
+.code-mask{animation:code 18s steps(30,end) infinite;transform-origin:450px 0}.plot{stroke-dasharray:90;animation:plot 18s ease-in-out infinite}.packet{stroke-dasharray:4 10;animation:packet 4s linear infinite}.insight{animation:insight 18s ease-in-out infinite;transform-origin:883px 236px}
+@keyframes question{0%{transform:scaleX(0)}8%,96%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+@keyframes research{0%,6%,100%{opacity:.3}12%,96%{opacity:1}}
+@keyframes experiment{0%,15%,100%{opacity:.3}23%,96%{opacity:1}}
+@keyframes discovery{0%,27%,100%{opacity:.3}35%,96%{opacity:1}}
+@keyframes code{0%,17%{transform:scaleX(0)}30%,96%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+@keyframes plot{0%,8%,100%{stroke-dashoffset:90}17%,96%{stroke-dashoffset:0}}
+@keyframes packet{to{stroke-dashoffset:-56}}
+@keyframes insight{0%,28%,100%{transform:scale(.9);opacity:.4}37%,96%{transform:scale(1);opacity:1}}
+@media(prefers-reduced-motion:reduce){.question-mask,.research,.experiment,.discovery,.code-mask,.plot,.packet,.insight{animation:none;transform:none;opacity:1;stroke-dashoffset:0}}
 </style>
-<rect width="1200" height="290" fill="#FFFFFF"/>
-<text class="mono" x="32" y="26" fill="#4D515C" font-size="10" letter-spacing="1.7">ILLUSTRATIVE AI EXCHANGE</text>
-<path d="M32 40H1168" stroke="url(#signal)" stroke-width="1" opacity=".35"/>
-<path d="M48 72V211" stroke="url(#thread)" stroke-width="1" opacity=".35"/>
-<path d="M42 69l7 6-7 6M52 81h7" stroke="#F7941D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-<text class="mono" x="90" y="57" fill="#8F4F09" font-size="10" letter-spacing="1.2">STUDENT / A FIRST QUESTION</text>
-<g class="content"><g clip-path="url(#prompt-clip)"><text x="90" y="88" fill="#15161B" font-size="23" font-weight="500">How do we turn an idea into something real?</text></g></g>
-<g aria-hidden="true">
-<path class="signal" d="M90 139H1145" stroke="url(#signal)" stroke-width="1" opacity=".24"/>
-<text class="mono" x="90" y="144" fill="#4D515C" font-size="13">[ ? ]</text>
-<text class="mono" x="181" y="144" fill="#6C2F9B" font-size="13">[</text>
-<circle class="dot" cx="205" cy="139" r="2.3" fill="#6C2F9B"/>
-<circle class="dot d2" cx="219" cy="139" r="2.3" fill="#6C2F9B"/>
-<circle class="dot d3" cx="233" cy="139" r="2.3" fill="#6C2F9B"/>
-<text class="mono" x="251" y="144" fill="#6C2F9B" font-size="13">]</text>
-<text class="mono" x="308" y="144" fill="#4D515C" font-size="13">[ + ]</text>
-<text class="mono" x="1145" y="144" fill="#4D515C" font-size="10" text-anchor="end" letter-spacing=".7">QUESTION -&gt; EXPERIMENT -&gt; KNOWLEDGE</text>
+<rect width="1200" height="400" fill="#FFFFFF"/>
+<text class="mono" x="32" y="26" font-size="10" letter-spacing="1.7" fill="#4D515C">ILLUSTRATIVE AI JOURNEY</text>
+<text class="mono" x="1168" y="26" font-size="10" letter-spacing="1.3" fill="#4D515C" text-anchor="end">QUESTION / RESEARCH / EXPERIMENT / DISCOVERY</text>
+<path d="M32 40H1168" stroke="url(#signal)" opacity=".4"/>
+<g stroke="#6C2F9B" stroke-width="1.5" stroke-linejoin="round"><path d="M53 64l19 13-7 23H41l-7-23z"/><path d="M53 74l9 7-3 10H47l-3-10zM53 64v10M72 77l-10 4M65 100l-6-9M41 100l6-9M34 77l10 4"/></g>
+<text class="mono" x="91" y="65" font-size="10" fill="#8F4F09" letter-spacing="1.3">STUDENT / THE STARTING QUESTION</text>
+<g clip-path="url(#question-clip)"><text x="91" y="100" font-size="29" font-weight="650" fill="#15161B">Can we make an idea useful?</text></g>
+<g class="research">
+<rect x="32" y="143" width="344" height="182" rx="12" fill="#F6F6F4" stroke="#DEDDE5"/>
+<text class="mono" x="56" y="172" font-size="11" fill="#8F4F09" letter-spacing="1.2">01 / RESEARCH</text>
+<g stroke="#8F4F09" stroke-width="1.4" stroke-linejoin="round"><path d="M57 195h43l12 12v66H57zM100 195v12h12M67 218h31M67 226h22"/><path d="M67 261v-24M67 261h34" opacity=".55"/><path class="plot" d="M71 254l8-6 8 3 10-14" fill="none"/><circle cx="98" cy="237" r="2.3" fill="#8F4F09"/></g>
+<text x="137" y="219" font-size="17" font-weight="600" fill="#15161B">Find useful evidence.</text>
+<text x="137" y="245" font-size="15" fill="#4D515C">Question assumptions.</text>
+<text class="mono" x="56" y="303" font-size="12" fill="#4D515C">[ sources -&gt; hypothesis ]</text>
 </g>
-<g class="avatar" stroke="#6C2F9B" stroke-width="1.5" stroke-linejoin="round">
-<path d="M48 196l14 10-5 17H39l-5-17z"/>
-<path d="M48 203l7 5-3 8h-8l-3-8zM48 196v7M62 206l-7 2M57 223l-5-7M39 223l5-7M34 206l7 2"/>
+<path d="M386 234h28m-5-5 5 5-5 5" stroke="#6C2F9B" opacity=".7"/>
+<path class="packet" d="M386 234h28" stroke="#F7941D" stroke-width="2"/>
+<g class="experiment">
+<rect x="428" y="143" width="344" height="182" rx="12" fill="#F6F6F4" stroke="#DEDDE5"/>
+<text class="mono" x="452" y="172" font-size="11" fill="#6C2F9B" letter-spacing="1.2">02 / EXPERIMENT</text>
+<g class="mono" font-size="14" clip-path="url(#code-clip)"><text x="452" y="214" fill="#4D515C"><tspan fill="#6C2F9B">idea</tspan> = hypothesis()</text><text x="452" y="239" fill="#4D515C"><tspan fill="#8F4F09">result</tspan> = test(idea)</text><text x="452" y="264" fill="#15161B">evaluate(result)</text></g>
+<text class="mono" x="452" y="303" font-size="12" fill="#4D515C">[ pseudocode / example ]</text>
 </g>
-<text class="mono" x="90" y="184" fill="#6C2F9B" font-size="10" letter-spacing="1.2">UNIAI / AN EXAMPLE RESPONSE</text>
-<g class="content"><g clip-path="url(#reply-clip)">
-<text x="90" y="216" fill="#15161B" font-size="23" font-weight="600">Ask a question. Build an experiment.</text>
-<text x="90" y="246" fill="#15161B" font-size="23" font-weight="600">Share what you learn.</text>
-</g></g>
-<text class="mono" x="1168" y="278" text-anchor="end" fill="#4D515C" font-size="9" letter-spacing="1">A CONVERSATION ILLUSTRATION / NO LIVE MODEL</text>
+<path d="M782 234h28m-5-5 5 5-5 5" stroke="#6C2F9B" opacity=".7"/>
+<path class="packet" d="M782 234h28" stroke="#A04EDB" stroke-width="2"/>
+<g class="discovery">
+<rect x="824" y="143" width="344" height="182" rx="12" fill="#F6F6F4" stroke="#DEDDE5"/>
+<text class="mono" x="848" y="172" font-size="11" fill="#8F4F09" letter-spacing="1.2">03 / SHARED DISCOVERY</text>
+<g class="insight" stroke="#6C2F9B" stroke-width="1.5"><path d="M883 213l18 12-6 22h-24l-6-22zM883 222l9 6-3 10h-12l-3-10zM883 213v9M901 225l-9 3M895 247l-6-9M871 247l6-9M865 225l9 3"/><path d="M855 255h56M883 247v8M855 255v8M911 255v8" opacity=".65"/><circle cx="855" cy="266" r="3" fill="#F7941D" stroke="none"/><circle cx="911" cy="266" r="3" fill="#A04EDB" stroke="none"/></g>
+<text x="940" y="219" font-size="17" font-weight="600" fill="#15161B">Explain the result.</text>
+<text x="940" y="245" font-size="15" fill="#4D515C">Share what changed.</text>
+<text class="mono" x="848" y="303" font-size="12" fill="#4D515C">[ document -&gt; teach ]</text>
+</g>
+<path d="M32 347H1168" stroke="url(#signal)" opacity=".2"/>
+<text x="32" y="379" font-size="20" font-weight="600" fill="#15161B">A useful answer is a path you can test.</text>
+<text class="mono" x="1168" y="378" font-size="10" letter-spacing="1" fill="#4D515C" text-anchor="end">AN EXAMPLE WORKFLOW / NOT A LIVE MODEL</text>
 </svg>

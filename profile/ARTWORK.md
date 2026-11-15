@@ -19,13 +19,15 @@ No source code, illustrations or assets from these repositories were copied.
 ## Assets and provenance
 
 - `assets/uniai-logo.png`: official UniAI logo copied unchanged from the Events workspace's `public/brand/logo.png`. The hero embeds the same PNG so it has no remote image dependency.
-- `assets/banner-{dark,light}.svg`: custom editorial hero, the exact official geometric icon, contour ribbons, a detailed shuttle that approaches for landing and fades near the logo, and an orbiting satellite.
-- `assets/ecosystem-{dark,light}.svg`: custom department network board with five animated official icon marks at the connection nodes.
+- `assets/banner-{dark,light}.svg`: custom editorial hero with a choreographed 18-second sequence: stars gather, the official centre mark appears, the shuttle approaches and a docking glow completes the scene. The left logo and headline stay readable.
+- `assets/ecosystem-{dark,light}.svg`: custom department network board with five animated official logo nodes and distinct illustrations: research plot, workshop book, assembling prototype, server signal and community connections.
 - `assets/lab-board-{dark,light}.svg`: custom proposed season board.
 - `assets/wave-{dark,light}.svg`: custom animated contour fields.
 - `assets/galaxy-{dark,light}.svg`: custom star field and spiral orbit with the official icon, two satellites and a glass-domed UFO that approaches and fades near the logo.
 - `assets/mission-{dark,light}.svg`: the supplied mission wording with a one-time text reveal and a custom ASK / THINK / CONNECT / CREATE signal pipeline, exported with transparency.
-- `assets/ascii-transmission-{dark,light}.svg`: a custom illustrative AI conversation loop: student prompt, ASCII processing and an example response. It is an animated illustration, not a chatbot or live model.
+- `assets/ascii-transmission-{dark,light}.svg`: a custom illustrative AI journey: student question, research evidence, experiment pseudocode and shared discovery. The sequence is complete by 6.3 seconds and holds before restarting. It is an illustration, not a chatbot or executing code.
+- `assets/project-{makeathon,roboai,students}-{dark,light}.svg`: six original illustrated covers for three past public UniAI programmes. They are graphic interpretations, not event photographs or application screenshots.
+- `assets/closing-{dark,light}.svg`: the custom invitation, “Your next idea belongs here.” Action links remain native README links below it.
 - `assets/footer-logo-{dark,light}.svg`: the unchanged official logo embedded in an adaptive full-width wrapper.
 - `assets/divider.svg`: custom animated signal separator.
 - `assets/uniai-sculpture.png`: original generated cinematic 3D-style brand illustration, created with the built-in image-generation tool. It is illustrative artwork, not a photograph, an editable 3D model or a replacement for the official logo.
@@ -41,3 +43,14 @@ SVG motion uses inline CSS keyframes. All animated SVGs include static reduced-m
 The typing subheader and badges are external image services. The custom artwork is served directly from this repository. The core information remains readable without those optional external images or SVG animation.
 
 GitHub applies its own background colour to inline images. The `wave-seamless` and `mission-seamless` variants and the footer wrapper match GitHub's standard dark (`#0D1117`) and light (`#FFFFFF`) canvas to avoid a visible image plate. The original wave and mission exports retain true transparency. Other custom GitHub themes may use different canvas colours.
+
+## Featured work and membership sources
+
+Checked on 15 November 2026:
+
+- [UniAI official programmes](https://uniai.gr/en): Makeathon 2026, RoboAI Lab and Students 4 Students are recorded as past programmes.
+- [Makeathon public archive](https://makeathon.uniai.gr/): the event's public archive destination.
+- [UniAI events](https://uniai.gr/en/events): programme information for RoboAI Lab and Students 4 Students.
+- [Official membership form](https://docs.google.com/forms/d/e/1FAIpQLSdUhSH3gTo9SkgJVr7iX3H8re0IRc1wojmJiFOzEcuAYrt9BA/closedform): states that applications for 2026–2027 are closed. The README therefore links to membership updates.
+
+The showcase does not expose private repositories or imply that these event programmes are public software repositories. Workshop proposals point to the existing verified UniAI LinkedIn profile.
