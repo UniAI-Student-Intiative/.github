@@ -27,7 +27,9 @@ No source code, illustrations or assets from these repositories were copied.
 - `assets/mission-{dark,light}.svg`: the supplied mission wording with a one-time text reveal and a custom ASK / THINK / CONNECT / CREATE signal pipeline, exported with transparency.
 - `assets/ascii-transmission-{dark,light}.svg`: a custom illustrative AI journey: student question, research evidence, experiment pseudocode and shared discovery. The sequence is complete by 6.3 seconds and holds before restarting. It is an illustration, not a chatbot or executing code.
 - `assets/project-{makeathon,roboai,students}-{dark,light}.svg`: six original illustrated covers for three past public UniAI programmes. They are graphic interpretations, not event photographs or application screenshots.
-- `assets/closing-{dark,light}.svg`: company partnerships heading with the official contact link below.
+- `assets/nav-*-{dark,light}.svg`: accessible section links with custom icons.
+- `assets/partnership-button-{dark,light}.svg`: the company contact button.
+- `assets/footer-tide-{dark,light}.svg`: two sets of orange and violet contours travel in opposite directions. Reduced motion shows a static wave.
 - `assets/footer-logo-{dark,light}.svg`: the unchanged official logo embedded in an adaptive full-width wrapper.
 - `assets/divider.svg`: custom animated signal separator.
 - `assets/uniai-sculpture.png`: original generated cinematic 3D-style brand illustration, created with the built-in image-generation tool. It is illustrative artwork, not a photograph, an editable 3D model or a replacement for the official logo.

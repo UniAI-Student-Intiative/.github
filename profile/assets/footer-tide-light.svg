@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title">
+  <title id="title">Orange and violet footer waves</title>
+  <defs>
+    <linearGradient id="surface" x2="0" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#A04EDB" stop-opacity=".09"/>
+    </linearGradient>
+    <linearGradient id="crest" x1="-600" y1="0" x2="0" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop stop-color="#F7941D"/>
+      <stop offset=".52" stop-color="#A04EDB"/>
+      <stop offset="1" stop-color="#F7941D"/>
+    </linearGradient>
+    <clipPath id="bounds"><rect width="1200" height="112" rx="10"/></clipPath>
+    <path id="curve" d="M-600 61 Q-450 14-300 61T0 61T300 61T600 61T900 61T1200 61T1500 61T1800 61"/>
+    <path id="fill" d="M-600 61 Q-450 14-300 61T0 61T300 61T600 61T900 61T1200 61T1500 61T1800 61V140H-600Z"/>
+  </defs>
+  <style>
+    .tide { animation: flow 16s linear infinite; }
+    .contours { animation: flow 24s linear infinite reverse; }
+    @keyframes flow { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+    @media (prefers-reduced-motion: reduce) { .tide, .contours { animation: none; } }
+  </style>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="112" fill="#FFFFFF"/>
+    <g class="tide">
+      <use href="#fill" fill="url(#surface)"/>
+      <use href="#curve" fill="none" stroke="url(#crest)" stroke-opacity=".8" stroke-width="1.65"/>
+      <use href="#curve" y="6" fill="none" stroke="url(#crest)" stroke-opacity=".27" stroke-width=".85"/>
+    </g>
+    <g transform="translate(0 15)">
+      <g class="contours" fill="none" stroke="url(#crest)" stroke-width=".8">
+        <use href="#curve" stroke-opacity=".28"/>
+        <use href="#curve" y="7" stroke-opacity=".20"/>
+        <use href="#curve" y="14" stroke-opacity=".12"/>
+      </g>
+    </g>
+  </g>
+</svg>

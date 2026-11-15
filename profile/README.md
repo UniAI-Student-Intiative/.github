@@ -232,13 +232,15 @@ This is a proposed organisation-level agenda for the 2026–2027 season. Dates, 
   <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/footer-logo-light.svg?v=3" alt="UniAI: Students Initiative" width="1200">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/closing-dark.svg?v=7">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/closing-light.svg?v=7" alt="UniAI company partnerships and support" width="1200">
-</picture>
-
 ## For companies
 
 If your company would like to support UniAI, we'd love to hear from you. Companies can sponsor an event, mentor student teams, host a workshop or propose a Makeathon challenge.
 
-**[Contact UniAI about a partnership](https://uniai.gr/en/become-a-partner)**
+<p align="center">
+  <a href="https://uniai.gr/en/become-a-partner"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/partnership-button-dark.svg"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/partnership-button-light.svg" alt="Contact UniAI about a partnership" width="282" height="50"></picture></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/footer-tide-dark.svg">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/footer-tide-light.svg" alt="" width="1200">
+</picture>
