@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-dark.svg">
-    <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-light.svg" alt="UniAI: bridging academia, engineering and community." width="1200" height="320">
+    <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-light.svg" alt="UniAI. Curiosity in. Possibility out. Official logo, geometric sculpture and flowing ribbons." width="1200" height="420">
   </picture>
 </p>
 
@@ -33,13 +33,23 @@ UniAI is a student-led AI initiative in Greece, connecting academic research, pr
 
 Curiosity is the starting point. Reproducible work, useful tools and knowledge shared with the next student are how we turn it into progress.
 
-Our ecosystem brings together research, hands-on learning, events, platform engineering and community. The 2026–2027 initiatives below describe our proposed direction and are subject to confirmation by the team.
+<p align="center"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/uniai-sculpture.png" alt="Original cinematic 3D brand illustration: an orange geometric frame, purple glass core and flowing ribbons in a dark studio." width="1000"></p>
+<p align="center"><sub>Different perspectives. Connected by curiosity.</sub></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/divider.svg" alt="" width="1200" height="12"></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/wave-dark.svg">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/wave-light.svg" alt="Orange and purple wave contours in motion." width="1200" height="120">
+</picture>
 
 ## The ecosystem
 
-### Five pillars, one student community
+### Five departments. One shared orbit.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ecosystem-dark.svg">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ecosystem-light.svg" alt="Five connected UniAI departments: research, workshops, hackathons, infrastructure and community." width="1200" height="470">
+</picture>
+
 
 <table align="center" width="100%">
   <tr>
@@ -75,6 +85,20 @@ Our ecosystem brings together research, hands-on learning, events, platform engi
   </tr>
 </table>
 
+### Inside the lab
+
+```text
+  student@uniai:~$ explore --together
+  |
+  +-- research/       ask -> test -> reproduce
+  +-- workshops/      learn -> practise -> teach
+  +-- hackathons/     connect -> build -> demonstrate
+  +-- infrastructure/ design -> ship -> maintain
+  `-- community/      welcome -> collaborate -> grow
+
+  > next contribution: yours_
+```
+
 ### Technical tracks and toolkit
 
 AI and tooling tracks are proposed learning and contribution areas for 2026–2027. They span research projects, practical workshops and the platforms supporting our community.
@@ -105,7 +129,42 @@ AI and tooling tracks are proposed learning and contribution areas for 2026–20
 
 <p align="center"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/divider.svg" alt="" width="1200" height="12"></p>
 
+## Season board
+
+### 2026–2027 / From first question to shared work
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/lab-board-dark.svg">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/lab-board-light.svg" alt="Proposed 2026 to 2027 board: orient, build and share. Dates and owners require confirmation." width="1200" height="360">
+</picture>
+
+<details>
+<summary><strong>2026–2027 Roadmap &amp; Flagship Events</strong></summary>
+
+This is a proposed organisation-level agenda for the 2026–2027 season. Dates, owners, venues and registration links require confirmation by the UniAI team.
+
+| Initiative | Proposed outcome |
+| --- | --- |
+| Student onboarding | A clear membership route, introduction to the pillars and a first contribution with peer support |
+| Open-source repositories | Reproducible project templates, documented experiments and contribution guidance |
+| AI & research track | Python and PyTorch learning projects with explicit evaluation and reproducibility notes |
+| AI applications track | Useful applications and an introduction to MCP-based tool integration |
+| Platform engineering track | Improvements to event workflows, documentation and operational reliability |
+| Workshops & bootcamps | Practical sessions with material students can revisit |
+| Hackathons & showcases | Team challenges, mentorship, demonstrations and student project sharing |
+
+**Flagship reference:** the [official UniAI website](https://uniai.gr/en) records Makeathon 2026 on 15–17 May 2026, alongside earlier RoboAI Lab and Students 4 Students events. Those past programmes inform this direction; they are not announcements for 2027.
+
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-dark.svg">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-light.svg" alt="An orange and purple galaxy orbiting a UniAI geometric sculpture." width="1200" height="200">
+</picture>
+
 ## Join and contribute
+
+**Bring a question, a skill or an idea. We will work on the next step together.**
 
 <details>
 <summary><strong>How to Join &amp; Contribute: Student &amp; Developer Onboarding</strong></summary>
@@ -144,25 +203,10 @@ Discuss technical contributions with the maintainers through the organisation. S
 
 </details>
 
-<details>
-<summary><strong>2026–2027 Roadmap &amp; Flagship Events</strong></summary>
 
-This is a proposed organisation-level agenda for the 2026–2027 season. Dates, owners, venues and registration links require confirmation by the UniAI team.
-
-| Initiative | Proposed outcome |
-| --- | --- |
-| Student onboarding | A clear membership route, introduction to the pillars and a first contribution with peer support |
-| Open-source repositories | Reproducible project templates, documented experiments and contribution guidance |
-| AI & research track | Python and PyTorch learning projects with explicit evaluation and reproducibility notes |
-| AI applications track | Useful applications and an introduction to MCP-based tool integration |
-| Platform engineering track | Improvements to event workflows, documentation and operational reliability |
-| Workshops & bootcamps | Practical sessions with material students can revisit |
-| Hackathons & showcases | Team challenges, mentorship, demonstrations and student project sharing |
-
-**Flagship reference:** the [official UniAI website](https://uniai.gr/en) records Makeathon 2026 on 15–17 May 2026, alongside earlier RoboAI Lab and Students 4 Students events. Those past programmes inform this direction; they are not announcements for 2027.
-
-</details>
 
 <p align="center"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/divider.svg" alt="" width="1200" height="12"></p>
+
+<p align="center"><a href="https://uniai.gr/"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/uniai-logo.png" alt="UniAI: Students Initiative" width="256" height="85"></a></p>
 
 <p align="center"><strong>Built by students. Shared through curiosity.</strong><br>Learn with us. Build with us. Connect with UniAI.</p>

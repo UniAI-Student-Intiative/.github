@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc" fill="none">
+<title id="title">UniAI proposed season planning board</title><desc id="desc">A proposed 2026 to 2027 initiative board: welcome students, build open projects, and share through workshops and hackathons. These are planning directions, not confirmed programmes or scheduled events.</desc>
+<defs><linearGradient id="signal" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#F7941D"/><stop offset="1" stop-color="#A04EDB"/></linearGradient><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".65" fill="#4D515C" opacity=".13"/></pattern></defs>
+<style>text{font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace}.flow{stroke-dasharray:4 16;animation:signal 12s linear infinite}.breath{animation:breathe 5s ease-in-out infinite}.delay{animation-delay:-2.5s}.cursor{animation:cursor 2.4s steps(2,end) infinite}@keyframes signal{to{stroke-dashoffset:-200}}@keyframes breathe{0%,100%{opacity:.45}50%{opacity:1}}@keyframes cursor{0%,70%{opacity:1}71%,100%{opacity:0}}@media(prefers-reduced-motion:reduce){.flow,.breath,.cursor{animation:none}}</style>
+<rect x=".5" y=".5" width="1199" height="359" rx="20" fill="#F6F6F4" stroke="#DEDDE5"/>
+<rect x="1" y="1" width="1198" height="358" rx="20" fill="url(#dots)"/>
+<text x="32" y="34" font-size="11" fill="#4D515C" font-weight="400" class="mono" letter-spacing="1.8">UNIAI / SEASON PLANNING</text>
+<text x="32" y="72" font-size="27" fill="#15161B" font-weight="700" >From first hello to first contribution.</text>
+<rect x="991" y="26" width="177" height="30" rx="15" fill="#FFFFFF" stroke="#DEDDE5"/><text x="1080" y="45" font-size="10" fill="#6C2F9B" font-weight="400" class="mono" text-anchor="middle">PROPOSED / 2026-27</text>
+<rect x="32" y="105" width="356" height="184" rx="12" fill="#FFFFFF" stroke="#DEDDE5"/><text x="52" y="134" font-size="11" fill="#8F4F09" font-weight="400" class="mono" letter-spacing="1">01 / ORIENT</text>
+<text x="52" y="169" font-size="19" fill="#15161B" font-weight="650" >Welcome the next student</text>
+<rect x="53" y="190" width="9" height="9" rx="2" stroke="#F7941D" opacity=".7"/><text x="73" y="199" font-size="14" fill="#4D515C" font-weight="400" >Clear onboarding</text>
+<rect x="53" y="218" width="9" height="9" rx="2" stroke="#F7941D" opacity=".7"/><text x="73" y="227" font-size="14" fill="#4D515C" font-weight="400" >Choose a learning track</text>
+<text x="52" y="267" font-size="11" fill="#4D515C" font-weight="400" class="mono" >[ join ] -&gt; [ first task ]</text>
+<path class="flow" d="M390 197h30" stroke="#F7941D" stroke-width="1.5"/><rect x="422" y="105" width="356" height="184" rx="12" fill="#FFFFFF" stroke="#DEDDE5"/><text x="442" y="134" font-size="11" fill="#6C2F9B" font-weight="400" class="mono" letter-spacing="1">02 / BUILD</text>
+<text x="442" y="169" font-size="19" fill="#15161B" font-weight="650" >Turn curiosity into work</text>
+<rect x="443" y="190" width="9" height="9" rx="2" stroke="#6C2F9B" opacity=".7"/><text x="463" y="199" font-size="14" fill="#4D515C" font-weight="400" >Open-source projects</text>
+<rect x="443" y="218" width="9" height="9" rx="2" stroke="#6C2F9B" opacity=".7"/><text x="463" y="227" font-size="14" fill="#4D515C" font-weight="400" >Research &amp; platform tracks</text>
+<text x="442" y="267" font-size="11" fill="#4D515C" font-weight="400" class="mono" >[ explore ] -&gt; [ prototype ]</text>
+<path class="flow" d="M780 197h30" stroke="#6C2F9B" stroke-width="1.5"/><rect x="812" y="105" width="356" height="184" rx="12" fill="#FFFFFF" stroke="#DEDDE5"/><text x="832" y="134" font-size="11" fill="#8F4F09" font-weight="400" class="mono" letter-spacing="1">03 / SHARE</text>
+<text x="832" y="169" font-size="19" fill="#15161B" font-weight="650" >Give the knowledge back</text>
+<rect x="833" y="190" width="9" height="9" rx="2" stroke="#F7941D" opacity=".7"/><text x="853" y="199" font-size="14" fill="#4D515C" font-weight="400" >Workshops &amp; bootcamps</text>
+<rect x="833" y="218" width="9" height="9" rx="2" stroke="#F7941D" opacity=".7"/><text x="853" y="227" font-size="14" fill="#4D515C" font-weight="400" >Hackathons &amp; showcases</text>
+<text x="832" y="267" font-size="11" fill="#4D515C" font-weight="400" class="mono" >[ demonstrate ] -&gt; [ teach ]</text>
+<text x="32" y="328" font-size="12" fill="#4D515C" font-weight="400" class="mono" >&gt; next_step: find your people, then build together</text>
+<rect class="cursor" x="370" y="317" width="7" height="13" fill="#F7941D"/><text x="1168" y="328" font-size="11" fill="#4D515C" font-weight="400" text-anchor="end">Dates and programmes to be confirmed.</text>
+</svg>
