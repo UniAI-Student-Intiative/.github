@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-dark.svg">
-    <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-light.svg" alt="UniAI. Curiosity in. Possibility out. Official logo, geometric sculpture and flowing ribbons." width="1200">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-dark.svg?v=3">
+    <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-light.svg?v=3" alt="UniAI. Curiosity in. Possibility out. Official logo, geometric sculpture and flowing ribbons." width="1200">
   </picture>
 </p>
 
@@ -27,18 +27,28 @@
 
 ## Mission and identity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/mission-seamless-dark.svg?v=3">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/mission-seamless-light.svg?v=3" alt="UniAI mission, with a gradual text reveal and ASCII constellation. The full wording is available below." width="1200">
+</picture>
+
+<details>
+<summary><strong>Read our mission</strong></summary>
+
 **University AI Student Organization. A place to learn together and build something that matters.**
 
 UniAI is a student-led AI initiative in Greece, connecting academic research, practical AI engineering and community innovation. We bring students from different universities and disciplines into a shared space for experiments, hands-on learning and collaboration with researchers and industry.
 
 Curiosity is the starting point. Reproducible work, useful tools and knowledge shared with the next student are how we turn it into progress.
 
+</details>
+
 <p align="center"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/uniai-sculpture.png" alt="Original cinematic 3D brand illustration: an orange geometric frame, purple glass core and flowing ribbons in a dark studio." width="1000"></p>
 <p align="center"><sub>Different perspectives. Connected by curiosity.</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/wave-dark.svg">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/wave-light.svg" alt="Orange and purple wave contours in motion." width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/wave-seamless-dark.svg?v=3">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/wave-seamless-light.svg?v=3" alt="Orange and purple wave contours in motion." width="1200">
 </picture>
 
 ## The ecosystem
@@ -46,8 +56,8 @@ Curiosity is the starting point. Reproducible work, useful tools and knowledge s
 ### Five departments. One shared orbit.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ecosystem-dark.svg">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ecosystem-light.svg" alt="Five connected UniAI departments: research, workshops, hackathons, infrastructure and community." width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ecosystem-dark.svg?v=3">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ecosystem-light.svg?v=3" alt="Five connected UniAI departments: research, workshops, hackathons, infrastructure and community." width="1200">
 </picture>
 
 
@@ -126,8 +136,8 @@ This is a proposed organisation-level agenda for the 2026–2027 season. Dates, 
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-dark.svg">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-light.svg" alt="An orange and purple galaxy orbiting a UniAI geometric sculpture." width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-dark.svg?v=3">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-light.svg?v=3" alt="An orange and purple galaxy orbiting a UniAI geometric sculpture." width="1200">
 </picture>
 
 ## Join and contribute
@@ -201,6 +211,15 @@ Discuss technical contributions with the maintainers through the organisation. S
 
 <p align="center"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/divider.svg" alt="" width="1200"></p>
 
-<p align="center"><a href="https://uniai.gr/"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/uniai-logo.png" alt="UniAI: Students Initiative" width="256" height="85"></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/footer-logo-dark.svg?v=3">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/footer-logo-light.svg?v=3" alt="UniAI: Students Initiative" width="1200">
+</picture>
 
 <p align="center"><strong>Built by students. Shared through curiosity.</strong><br>Learn with us. Build with us. Connect with UniAI.</p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ascii-transmission-dark.svg?v=3">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ascii-transmission-light.svg?v=3" alt="Animated ASCII satellite and spacecraft. Keep exploring together. Decorative loop, not live telemetry." width="1200">
+</picture>

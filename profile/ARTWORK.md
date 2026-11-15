@@ -19,11 +19,14 @@ No source code, illustrations or assets from these repositories were copied.
 ## Assets and provenance
 
 - `assets/uniai-logo.png`: official UniAI logo copied unchanged from the Events workspace's `public/brand/logo.png`. The hero embeds the same PNG so it has no remote image dependency.
-- `assets/banner-{dark,light}.svg`: custom editorial hero, vector dodecahedron and contour ribbons.
-- `assets/ecosystem-{dark,light}.svg`: custom icons and department network board.
+- `assets/banner-{dark,light}.svg`: custom editorial hero, the exact official geometric icon, contour ribbons and orbiting spacecraft and satellite.
+- `assets/ecosystem-{dark,light}.svg`: custom department network board with five animated official icon marks at the connection nodes.
 - `assets/lab-board-{dark,light}.svg`: custom proposed season board.
 - `assets/wave-{dark,light}.svg`: custom animated contour fields.
-- `assets/galaxy-{dark,light}.svg`: custom star field and spiral orbit.
+- `assets/galaxy-{dark,light}.svg`: custom star field and spiral orbit with the official icon, two satellites and a spacecraft.
+- `assets/mission-{dark,light}.svg`: the supplied mission wording with a one-time text reveal and an animated ASCII constellation, exported with transparency.
+- `assets/ascii-transmission-{dark,light}.svg`: original ASCII satellite and spacecraft animation with a typing terminal line. Decorative illustration, not a live clock or telemetry.
+- `assets/footer-logo-{dark,light}.svg`: the unchanged official logo embedded in an adaptive full-width wrapper.
 - `assets/divider.svg`: custom animated signal separator.
 - `assets/uniai-sculpture.png`: original generated cinematic 3D-style brand illustration, created with the built-in image-generation tool. It is illustrative artwork, not a photograph, an editable 3D model or a replacement for the official logo.
 
@@ -36,3 +39,5 @@ Use case: stylized-concept. Create an original ultra-refined cinematic 3D brand 
 SVG motion uses inline CSS keyframes. All animated SVGs include static reduced-motion fallbacks. Text uses system font stacks. GitHub README content cannot run JavaScript, mouse parallax or scroll-controlled horizontal movement. No companion website is part of this delivery.
 
 The typing subheader and badges are external image services. The custom artwork is served directly from this repository. The core information remains readable without those optional external images or SVG animation.
+
+GitHub applies its own background colour to inline images. The `wave-seamless` and `mission-seamless` variants and the footer wrapper match GitHub's standard dark (`#0D1117`) and light (`#FFFFFF`) canvas to avoid a visible image plate. The original wave and mission exports retain true transparency. Other custom GitHub themes may use different canvas colours.
