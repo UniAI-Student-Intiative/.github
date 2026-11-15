@@ -27,7 +27,7 @@ No source code, illustrations or assets from these repositories were copied.
 - `assets/mission-{dark,light}.svg`: the supplied mission wording with a one-time text reveal and a custom ASK / THINK / CONNECT / CREATE signal pipeline, exported with transparency.
 - `assets/ascii-transmission-{dark,light}.svg`: a custom illustrative AI journey: student question, research evidence, experiment pseudocode and shared discovery. The sequence is complete by 6.3 seconds and holds before restarting. It is an illustration, not a chatbot or executing code.
 - `assets/project-{makeathon,roboai,students}-{dark,light}.svg`: six original illustrated covers for three past public UniAI programmes. They are graphic interpretations, not event photographs or application screenshots.
-- `assets/closing-{dark,light}.svg`: the custom invitation, “Your next idea belongs here.” Action links remain native README links below it.
+- `assets/closing-{dark,light}.svg`: company partnerships heading with the official contact link below.
 - `assets/footer-logo-{dark,light}.svg`: the unchanged official logo embedded in an adaptive full-width wrapper.
 - `assets/divider.svg`: custom animated signal separator.
 - `assets/uniai-sculpture.png`: original generated cinematic 3D-style brand illustration, created with the built-in image-generation tool. It is illustrative artwork, not a photograph, an editable 3D model or a replacement for the official logo.
@@ -44,13 +44,11 @@ The typing subheader and badges are external image services. The custom artwork 
 
 GitHub applies its own background colour to inline images. The `wave-seamless` and `mission-seamless` variants and the footer wrapper match GitHub's standard dark (`#0D1117`) and light (`#FFFFFF`) canvas to avoid a visible image plate. The original wave and mission exports retain true transparency. Other custom GitHub themes may use different canvas colours.
 
-## Featured work and membership sources
+## Featured work and partnership sources
 
 Checked on 15 November 2026:
 
 - [UniAI official programmes](https://uniai.gr/en): Makeathon 2026, RoboAI Lab and Students 4 Students are recorded as past programmes.
 - [Makeathon public archive](https://makeathon.uniai.gr/): the event's public archive destination.
 - [UniAI events](https://uniai.gr/en/events): programme information for RoboAI Lab and Students 4 Students.
-- [Official membership form](https://docs.google.com/forms/d/e/1FAIpQLSdUhSH3gTo9SkgJVr7iX3H8re0IRc1wojmJiFOzEcuAYrt9BA/closedform): states that applications for 2026–2027 are closed. The README therefore links to membership updates.
-
-The showcase does not expose private repositories or imply that these event programmes are public software repositories. Workshop proposals point to the existing verified UniAI LinkedIn profile.
+- [Official UniAI partnerships](https://uniai.gr/en/become-a-partner): contact route for companies interested in supporting UniAI.

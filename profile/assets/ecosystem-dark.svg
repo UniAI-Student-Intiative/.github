@@ -40,12 +40,12 @@
 <path d="M367 125v32" stroke="#A04EDB" opacity=".5" /><g transform="translate(367 125)"><g class="logo-motion" style="animation-delay:-1.2s"><use href="#uniai-node-mark" /></g></g><rect x="262" y="158" width="216" height="252" rx="12" fill="#141418" stroke="#303039" /><path d="M278 158h38" stroke="#A04EDB" stroke-width="2" /><g transform="translate(280 179)" stroke="#A04EDB" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4c8-3 15-3 23 2v32c-8-5-15-5-23-2z" stroke="#A04EDB" /><g class="book-page"><path d="M25 6c8-5 15-5 23-2v32c-8-3-15-3-23 2z" stroke="#A04EDB" /><path d="M30 13l12-3M30 19l12-3M30 25l12-3" stroke="#A04EDB" stroke-width="1.2" /></g><path d="M7 11l12 2M7 17l12 2M7 23l12 2" stroke="#A04EDB" stroke-width="1.2" /><path d="M68 11h65M68 21h53M68 31h60" stroke="#5C5C68" /><path class="lesson-line" pathLength="1" d="M68 11h65M68 21h53M68 31h60" stroke="#F7941D" stroke-width="1.3" /></g><text x="456" y="194" font-size="12" fill="#B6B6C1" font-weight="400" class="mono" text-anchor="end">02</text>
 <text x="280" y="244" font-size="18" fill="#F6F6F4" font-weight="700">Workshops</text>
 <text x="280" y="273" font-size="14" fill="#B6B6C1" font-weight="400">Learn by making.</text>
-<text x="280" y="294" font-size="14" fill="#B6B6C1" font-weight="400">Teach what you learn.</text>
+<text x="280" y="294" font-size="14" fill="#B6B6C1" font-weight="400">Peer-led teaching.</text>
 <path d="M280 317h180" stroke="#303039" /><text x="280" y="347" font-size="11" fill="#B6B6C1" font-weight="400" class="mono">Bootcamps / tutorials</text>
 <text x="280" y="371" font-size="11" fill="#B6B6C1" font-weight="400" class="mono">Peer-to-peer learning</text>
 <path d="M597 125v32" stroke="#F7941D" opacity=".5" /><g transform="translate(597 125)"><g class="logo-motion" style="animation-delay:-2.4s"><use href="#uniai-node-mark" /></g></g><rect x="492" y="158" width="216" height="252" rx="12" fill="#141418" stroke="#303039" /><path d="M508 158h38" stroke="#F7941D" stroke-width="2" /><g transform="translate(510 179)" stroke="#F7941D" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M2 8V0h12M122 0h14v8M2 31v8h12M122 39h14v-8" stroke="#5C5C68" /><g class="prototype-a"><path d="M14 9l14-7 14 7-14 7zM14 9v17l14 8 14-8V9M28 16v18" stroke="#F7941D" /></g><g class="prototype-b"><path d="M51 15l14-7 14 7-14 7zM51 15v17l14 8 14-8V15M65 22v18" stroke="#A04EDB" /></g><g class="prototype-c"><path d="M88 9l14-7 14 7-14 7zM88 9v17l14 8 14-8V9M102 16v18" stroke="#F7941D" /></g></g><text x="686" y="194" font-size="12" fill="#B6B6C1" font-weight="400" class="mono" text-anchor="end">03</text>
 <text x="510" y="244" font-size="18" fill="#F6F6F4" font-weight="700">Hackathons</text>
-<text x="510" y="273" font-size="14" fill="#B6B6C1" font-weight="400">Find your team.</text>
+<text x="510" y="273" font-size="14" fill="#B6B6C1" font-weight="400">Team formation.</text>
 <text x="510" y="294" font-size="14" fill="#B6B6C1" font-weight="400">Make an idea work.</text>
 <path d="M510 317h180" stroke="#303039" /><text x="510" y="347" font-size="11" fill="#B6B6C1" font-weight="400" class="mono">Challenges / prototypes</text>
 <text x="510" y="371" font-size="11" fill="#B6B6C1" font-weight="400" class="mono">Mentors / showcases</text>
@@ -60,7 +60,7 @@
 <text x="970" y="273" font-size="14" fill="#B6B6C1" font-weight="400">Connect people</text>
 <text x="970" y="294" font-size="14" fill="#B6B6C1" font-weight="400">and possibilities.</text>
 <path d="M970 317h180" stroke="#303039" /><text x="970" y="347" font-size="11" fill="#B6B6C1" font-weight="400" class="mono">PR / partnerships</text>
-<text x="970" y="371" font-size="11" fill="#B6B6C1" font-weight="400" class="mono">Membership / outreach</text>
+<text x="970" y="371" font-size="11" fill="#B6B6C1" font-weight="400" class="mono">Community outreach</text>
 <text x="32" y="445" font-size="11" fill="#B6B6C1" font-weight="400" class="mono">ideas -&gt; experiments -&gt; shared knowledge</text>
 <text x="1168" y="445" font-size="11" fill="#B6B6C1" font-weight="400" class="mono" text-anchor="end">LEARN / BUILD / CONNECT</text>
 </svg>
