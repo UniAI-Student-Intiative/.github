@@ -19,13 +19,13 @@ No source code, illustrations or assets from these repositories were copied.
 ## Assets and provenance
 
 - `assets/uniai-logo.png`: official UniAI logo copied unchanged from the Events workspace's `public/brand/logo.png`. The hero embeds the same PNG so it has no remote image dependency.
-- `assets/banner-{dark,light}.svg`: custom editorial hero, the exact official geometric icon, contour ribbons and orbiting spacecraft and satellite.
+- `assets/banner-{dark,light}.svg`: custom editorial hero, the exact official geometric icon, contour ribbons, a detailed shuttle that approaches for landing and fades near the logo, and an orbiting satellite.
 - `assets/ecosystem-{dark,light}.svg`: custom department network board with five animated official icon marks at the connection nodes.
 - `assets/lab-board-{dark,light}.svg`: custom proposed season board.
 - `assets/wave-{dark,light}.svg`: custom animated contour fields.
-- `assets/galaxy-{dark,light}.svg`: custom star field and spiral orbit with the official icon, two satellites and a spacecraft.
-- `assets/mission-{dark,light}.svg`: the supplied mission wording with a one-time text reveal and an animated ASCII constellation, exported with transparency.
-- `assets/ascii-transmission-{dark,light}.svg`: original ASCII satellite and spacecraft animation with a typing terminal line. Decorative illustration, not a live clock or telemetry.
+- `assets/galaxy-{dark,light}.svg`: custom star field and spiral orbit with the official icon, two satellites and a glass-domed UFO that approaches and fades near the logo.
+- `assets/mission-{dark,light}.svg`: the supplied mission wording with a one-time text reveal and a custom ASK / THINK / CONNECT / CREATE signal pipeline, exported with transparency.
+- `assets/ascii-transmission-{dark,light}.svg`: a custom illustrative AI conversation loop: student prompt, ASCII processing and an example response. It is an animated illustration, not a chatbot or live model.
 - `assets/footer-logo-{dark,light}.svg`: the unchanged official logo embedded in an adaptive full-width wrapper.
 - `assets/divider.svg`: custom animated signal separator.
 - `assets/uniai-sculpture.png`: original generated cinematic 3D-style brand illustration, created with the built-in image-generation tool. It is illustrative artwork, not a photograph, an editable 3D model or a replacement for the official logo.

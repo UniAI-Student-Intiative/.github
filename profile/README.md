@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-dark.svg?v=3">
-    <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-light.svg?v=3" alt="UniAI. Curiosity in. Possibility out. Official logo, geometric sculpture and flowing ribbons." width="1200">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-dark.svg?v=4">
+    <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-light.svg?v=4" alt="UniAI. Curiosity in. Possibility out. Official logo, geometric sculpture and flowing ribbons." width="1200">
   </picture>
 </p>
 
@@ -28,8 +28,8 @@
 ## Mission and identity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/mission-seamless-dark.svg?v=3">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/mission-seamless-light.svg?v=3" alt="UniAI mission, with a gradual text reveal and ASCII constellation. The full wording is available below." width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/mission-seamless-dark.svg?v=4">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/mission-seamless-light.svg?v=4" alt="UniAI mission, with a gradual text reveal and ASCII constellation. The full wording is available below." width="1200">
 </picture>
 
 <details>
@@ -136,8 +136,8 @@ This is a proposed organisation-level agenda for the 2026–2027 season. Dates, 
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-dark.svg?v=3">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-light.svg?v=3" alt="An orange and purple galaxy orbiting a UniAI geometric sculpture." width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-dark.svg?v=4">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-light.svg?v=4" alt="An orange and purple galaxy orbiting a UniAI geometric sculpture." width="1200">
 </picture>
 
 ## Join and contribute
@@ -220,6 +220,6 @@ Discuss technical contributions with the maintainers through the organisation. S
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ascii-transmission-dark.svg?v=3">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ascii-transmission-light.svg?v=3" alt="Animated ASCII satellite and spacecraft. Keep exploring together. Decorative loop, not live telemetry." width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ascii-transmission-dark.svg?v=4">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ascii-transmission-light.svg?v=4" alt="Illustrative AI conversation: a student question, animated processing and a UniAI example response." width="1200">
 </picture>
