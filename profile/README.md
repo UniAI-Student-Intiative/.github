@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-dark.svg">
-    <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-light.svg" alt="UniAI. Curiosity in. Possibility out. Official logo, geometric sculpture and flowing ribbons." width="1200" height="420">
+    <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/banner-light.svg" alt="UniAI. Curiosity in. Possibility out. Official logo, geometric sculpture and flowing ribbons." width="1200">
   </picture>
 </p>
 
@@ -38,7 +38,7 @@ Curiosity is the starting point. Reproducible work, useful tools and knowledge s
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/wave-dark.svg">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/wave-light.svg" alt="Orange and purple wave contours in motion." width="1200" height="120">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/wave-light.svg" alt="Orange and purple wave contours in motion." width="1200">
 </picture>
 
 ## The ecosystem
@@ -47,43 +47,11 @@ Curiosity is the starting point. Reproducible work, useful tools and knowledge s
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ecosystem-dark.svg">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ecosystem-light.svg" alt="Five connected UniAI departments: research, workshops, hackathons, infrastructure and community." width="1200" height="470">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/ecosystem-light.svg" alt="Five connected UniAI departments: research, workshops, hackathons, infrastructure and community." width="1200">
 </picture>
 
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / Open-Source AI &amp; Research Labs</h3>
-      <p>Read papers, reproduce results and turn questions into inspectable experiments. Build models, evaluations and tools that another student can run.</p>
-      <p><strong>Focus:</strong> reproducibility, applied ML, responsible experimentation.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / Technical Workshops &amp; Bootcamps</h3>
-      <p>Learn by making. Connect fundamentals to working projects through practical sessions, peer support and technical walkthroughs.</p>
-      <p><strong>Focus:</strong> Python, model development, AI applications.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>03 / Hackathons &amp; Competitions</h3>
-      <p>Work across disciplines on real challenges, with space for prototyping, mentorship, evaluation and a clear explanation of what the team built.</p>
-      <p><strong>Focus:</strong> team formation, Makeathon-style challenges, demonstrations.</p>
-    </td>
-    <td valign="top">
-      <h3>04 / IT Infrastructure &amp; Platform Engineering</h3>
-      <p>Build the foundations that keep the community running: event experiences, participant workflows, developer tooling and maintainable infrastructure.</p>
-      <p><strong>Focus:</strong> UniAI Events, access controls, reliable delivery.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>05 / Community, PR &amp; Partnerships</h3>
-      <p>Connect students, researchers and partners. Make technical work accessible through communication, welcoming onboarding and opportunities to share knowledge.</p>
-      <p><strong>Focus:</strong> community programmes, storytelling, university and industry connections.</p>
-    </td>
-  </tr>
-</table>
+
 
 ### Inside the lab
 
@@ -127,7 +95,7 @@ AI and tooling tracks are proposed learning and contribution areas for 2026–20
   <img src="https://img.shields.io/badge/Git-A04EDB?style=for-the-badge" alt="Git">
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/divider.svg" alt="" width="1200" height="12"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/divider.svg" alt="" width="1200"></p>
 
 ## Season board
 
@@ -135,7 +103,7 @@ AI and tooling tracks are proposed learning and contribution areas for 2026–20
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/lab-board-dark.svg">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/lab-board-light.svg" alt="Proposed 2026 to 2027 board: orient, build and share. Dates and owners require confirmation." width="1200" height="360">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/lab-board-light.svg" alt="Proposed 2026 to 2027 board: orient, build and share. Dates and owners require confirmation." width="1200">
 </picture>
 
 <details>
@@ -159,7 +127,7 @@ This is a proposed organisation-level agenda for the 2026–2027 season. Dates, 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-dark.svg">
-  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-light.svg" alt="An orange and purple galaxy orbiting a UniAI geometric sculpture." width="1200" height="200">
+  <img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/galaxy-light.svg" alt="An orange and purple galaxy orbiting a UniAI geometric sculpture." width="1200">
 </picture>
 
 ## Join and contribute
@@ -189,13 +157,39 @@ Membership and repository access are coordinated by the organisers.
 <details>
 <summary><strong>Departments &amp; Communication Channels</strong></summary>
 
-| Area | Start the conversation about |
-| --- | --- |
-| AI & research | Reading groups, reproducible experiments, research questions |
-| Workshops & bootcamps | Learning goals, session material, peer mentoring |
-| Hackathons & competitions | Teams, challenges, mentoring, event delivery |
-| IT & platform engineering | Event tooling, maintainability, infrastructure |
-| Community, PR & partnerships | Membership, communication, collaboration |
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Open-Source AI &amp; Research Labs</h3>
+      <p>Read papers, reproduce results and turn questions into inspectable experiments. Build models, evaluations and tools that another student can run.</p>
+      <p><strong>Focus:</strong> reproducibility, applied ML, responsible experimentation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / Technical Workshops &amp; Bootcamps</h3>
+      <p>Learn by making. Connect fundamentals to working projects through practical sessions, peer support and technical walkthroughs.</p>
+      <p><strong>Focus:</strong> Python, model development, AI applications.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>03 / Hackathons &amp; Competitions</h3>
+      <p>Work across disciplines on real challenges, with space for prototyping, mentorship, evaluation and a clear explanation of what the team built.</p>
+      <p><strong>Focus:</strong> team formation, Makeathon-style challenges, demonstrations.</p>
+    </td>
+    <td valign="top">
+      <h3>04 / IT Infrastructure &amp; Platform Engineering</h3>
+      <p>Build the foundations that keep the community running: event experiences, participant workflows, developer tooling and maintainable infrastructure.</p>
+      <p><strong>Focus:</strong> UniAI Events, access controls, reliable delivery.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>05 / Community, PR &amp; Partnerships</h3>
+      <p>Connect students, researchers and partners. Make technical work accessible through communication, welcoming onboarding and opportunities to share knowledge.</p>
+      <p><strong>Focus:</strong> community programmes, storytelling, university and industry connections.</p>
+    </td>
+  </tr>
+</table>
 
 Use the [official website](https://uniai.gr/) for membership and the current community channels. Follow [LinkedIn](https://www.linkedin.com/company/uniai/) for professional updates and [Instagram](https://www.instagram.com/uniai.gr/) for community activity. Ask the organisers for the current community or Discord invitation.
 
@@ -205,7 +199,7 @@ Discuss technical contributions with the maintainers through the organisation. S
 
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/divider.svg" alt="" width="1200" height="12"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/divider.svg" alt="" width="1200"></p>
 
 <p align="center"><a href="https://uniai.gr/"><img src="https://raw.githubusercontent.com/UniAI-Student-Intiative/.github/main/profile/assets/uniai-logo.png" alt="UniAI: Students Initiative" width="256" height="85"></a></p>
 
