@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">UniAI | Learn. Build. Connect.</title>
+  <desc id="description">University AI Student Organisation. Orange and purple neural connections on a light grid. Student-led research, practical engineering and community innovation. Season 2026 to 2027.</desc>
+  <defs>
+    <linearGradient id="accent" x1="40" y1="0" x2="1160" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#F7941D"/><stop offset="1" stop-color="#A04EDB"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#A04EDB" stop-opacity=".18"/><stop offset="1" stop-color="#A04EDB" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#E2E3E8" stroke-width="1"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="318" rx="22"/></clipPath>
+  </defs>
+  <style>
+    text{font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace}
+    .grid{animation:drift 18s linear infinite}
+    .halo{transform-origin:960px 160px;animation:breathe 8s ease-in-out infinite}
+    .network{animation:signal 10s linear infinite;stroke-dasharray:6 10}
+    .node{animation:pulse 5s ease-in-out infinite}
+    .n1{animation-delay:-1.25s}.n2{animation-delay:-2.5s}.n3{animation-delay:-3.75s}
+    @keyframes drift{from{transform:translate(0,0)}to{transform:translate(40px,40px)}}
+    @keyframes breathe{0%,100%{opacity:.6;transform:scale(.94)}50%{opacity:1;transform:scale(1.06)}}
+    @keyframes signal{to{stroke-dashoffset:-160}}
+    @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.grid,.halo,.network,.node{animation:none}}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="#F6F6F4"/>
+    <g class="grid"><rect x="-40" y="-40" width="1280" height="400" fill="url(#grid)" opacity=".55"/></g>
+    <ellipse class="halo" cx="960" cy="160" rx="290" ry="250" fill="url(#halo)"/>
+    <path d="M40 1H1160" stroke="url(#accent)" stroke-width="3"/>
+    <rect x="48" y="38" width="216" height="26" rx="13" fill="#F6F6F4" stroke="#E2E3E8"/>
+    <circle cx="64" cy="51" r="3" fill="#F7941D"/>
+    <text x="77" y="55" fill="#4D515C" font-size="10" letter-spacing="1.4" class="mono">STUDENT-LED / AI-DRIVEN</text>
+    <text x="44" y="155" fill="#15161B" font-size="94" font-weight="800" letter-spacing="-5">Uni<tspan fill="#F7941D">AI</tspan></text>
+    <text x="49" y="192" fill="#15161B" font-size="21" font-weight="600" letter-spacing=".3">Learn. Build. Connect.</text>
+    <text x="49" y="224" fill="#4D515C" font-size="14">Bridging research, engineering and community innovation.</text>
+    <path d="M49 254H93" stroke="url(#accent)" stroke-width="3"/>
+    <text x="105" y="258" fill="#4D515C" font-size="11" letter-spacing="1.1" class="mono">UNIVERSITY AI STUDENT ORGANISATION</text>
+    <g stroke="url(#accent)" stroke-width="1.2" opacity=".28"><path d="M802 84 L885 52"/>
+<path d="M802 84 L754 148"/>
+<path d="M802 84 L939 153"/>
+<path d="M885 52 L978 85"/>
+<path d="M885 52 L939 153"/>
+<path d="M978 85 L1084 61"/>
+<path d="M978 85 L939 153"/>
+<path d="M978 85 L1140 142"/>
+<path d="M1084 61 L1140 142"/>
+<path d="M1140 142 L1056 203"/>
+<path d="M1056 203 L1128 271"/>
+<path d="M1056 203 L959 261"/>
+<path d="M1056 203 L939 153"/>
+<path d="M1128 271 L959 261"/>
+<path d="M959 261 L884 208"/>
+<path d="M959 261 L939 153"/>
+<path d="M884 208 L782 241"/>
+<path d="M884 208 L754 148"/>
+<path d="M884 208 L939 153"/>
+<path d="M782 241 L754 148"/>
+<path d="M754 148 L939 153"/></g>
+    <g class="network" stroke="url(#accent)" stroke-width="1.5" opacity=".55"><path d="M754 148L939 153L1056 203L1140 142L1084 61"/><path d="M782 241L884 208L959 261L1128 271"/></g>
+    <g class="node n0"><circle cx="802" cy="84" r="10" fill="#A04EDB" opacity=".12"/><circle cx="802" cy="84" r="3.5" fill="#A04EDB"/></g>
+<g class="node n1"><circle cx="885" cy="52" r="10" fill="#F7941D" opacity=".12"/><circle cx="885" cy="52" r="3.5" fill="#F7941D"/></g>
+<g class="node n2"><circle cx="978" cy="85" r="10" fill="#F7941D" opacity=".12"/><circle cx="978" cy="85" r="3.5" fill="#F7941D"/></g>
+<g class="node n3"><circle cx="1084" cy="61" r="10" fill="#A04EDB" opacity=".12"/><circle cx="1084" cy="61" r="3.5" fill="#A04EDB"/></g>
+<g class="node n0"><circle cx="1140" cy="142" r="10" fill="#F7941D" opacity=".12"/><circle cx="1140" cy="142" r="3.5" fill="#F7941D"/></g>
+<g class="node n1"><circle cx="1056" cy="203" r="10" fill="#F7941D" opacity=".12"/><circle cx="1056" cy="203" r="3.5" fill="#F7941D"/></g>
+<g class="node n2"><circle cx="1128" cy="271" r="10" fill="#A04EDB" opacity=".12"/><circle cx="1128" cy="271" r="3.5" fill="#A04EDB"/></g>
+<g class="node n3"><circle cx="959" cy="261" r="10" fill="#F7941D" opacity=".12"/><circle cx="959" cy="261" r="3.5" fill="#F7941D"/></g>
+<g class="node n0"><circle cx="884" cy="208" r="10" fill="#F7941D" opacity=".12"/><circle cx="884" cy="208" r="3.5" fill="#F7941D"/></g>
+<g class="node n1"><circle cx="782" cy="241" r="10" fill="#A04EDB" opacity=".12"/><circle cx="782" cy="241" r="3.5" fill="#A04EDB"/></g>
+<g class="node n2"><circle cx="754" cy="148" r="10" fill="#F7941D" opacity=".12"/><circle cx="754" cy="148" r="3.5" fill="#F7941D"/></g>
+<g class="node n3"><circle cx="939" cy="153" r="10" fill="#F7941D" opacity=".12"/><circle cx="939" cy="153" r="3.5" fill="#F7941D"/></g>
+    <rect x="961" y="285" width="191" height="23" rx="11.5" fill="#F6F6F4" stroke="#E2E3E8"/>
+    <text x="978" y="300" fill="#4D515C" font-size="10" letter-spacing="1.2" class="mono">SEASON / 2026-2027</text>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="319" rx="22" stroke="#E2E3E8"/>
+</svg>
